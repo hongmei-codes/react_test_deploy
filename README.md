@@ -81,7 +81,7 @@ If you want to use yarn, you can run:
 yarn run deploy
 ```
 
-# Step 8: go to your github page
+## Step 8: go to your github page
 Everything is now done and you can visit your github page at 'https://your_github_username.github.io/your_repo_name'.
 
 The github page for this demo deployment is [here](https://hongmei-codes.github.io/react_test_deploy).
